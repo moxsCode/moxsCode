@@ -1,6 +1,6 @@
 <!-- Futuristic Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:FF1493&height=200&section=header&text=🚀%20Paul%20Magboo%20👋&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:FF1493&height=200&section=header&text=🚀%20Paul%20👋&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
 <!-- Typing Animation Header -->
