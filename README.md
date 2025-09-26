@@ -1,16 +1,29 @@
-<!-- Futuristic Header -->
-<h1 align="center">🚀 Hey, I'm Paul 👋</h1>
-<h3 align="center">Turning Data into Insights | Building Smart Software | Exploring AI & Web</h3>
+<!-- Futuristic Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:FF1493&height=200&section=header&text=🚀%20Paul%20Magboo%20👋&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+</p>
+
+<!-- Typing Animation Header -->
+<!-- Typing animation (centered reliably) -->
+<!-- Typing Animation (Centered) -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights;Building+Smart+Software;Exploring+AI+%26+Web" alt="Typing SVG" />
+</div>
+
+
+
 
 ---
 
 <!-- Bio -->
 <p align="center">
-  I'm a <b>Computer Engineering Graduate</b> passionate about 
-  <span style="color:#00BFFF"><b>Data Analytics</b></span>, 
-  <span style="color:#7FFF00"><b>Machine Learning</b></span>, and 
+  I'm a <b>Computer Engineering Graduate</b> passionate about  
+  <span style="color:#00BFFF"><b>Data Analytics</b></span>,  
+  <span style="color:#7FFF00"><b>Machine Learning</b></span>, and  
   <span style="color:#FF69B4"><b>Software Development</b></span>.  
-  I love creating solutions that transform raw data into insights, writing clean & efficient code, and constantly exploring <b>new technologies</b> in AI, Data Engineering, and Web Development.  
+  <br><br>
+  💡 I love transforming <b>raw data into insights</b>, writing <b>clean & efficient code</b>,  
+  and constantly exploring <b>emerging technologies</b> in AI, Data Engineering, and Web Development.  
 </p>
 
 ---
@@ -26,6 +39,19 @@
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode" />
+</div>
+
+---
+
+<!-- AI/ML Stack -->
+<h2 align="center">🤖 AI & Data Science Tools</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="35"/>
 </div>
 
 ---
